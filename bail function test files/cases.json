@@ -1,0 +1,28 @@
+[
+  {
+    "case_id": "C-IND-2024-001",
+    "jurisdiction": "India",
+    "court_level": "Sessions Court",
+    "offences": ["IPC 420", "IPC 468", "IPC 471"],
+    "offence_category": "Economic Offence",
+    "max_punishment_years": 7,
+    "date_of_arrest": "2024-01-10",
+    "investigation_status": "Charge Sheet Filed",
+    "days_in_custody": 92,
+    "co_accused_present": true,
+    "case_complexity_score": 8.7
+  },
+  {
+    "case_id": "C-IND-2024-002",
+    "jurisdiction": "India",
+    "court_level": "High Court",
+    "offences": ["IPC 302"],
+    "offence_category": "Violent Offence",
+    "max_punishment_years": "Life",
+    "date_of_arrest": "2023-09-18",
+    "investigation_status": "Ongoing",
+    "days_in_custody": 180,
+    "co_accused_present": false,
+    "case_complexity_score": 9.5
+  }
+]

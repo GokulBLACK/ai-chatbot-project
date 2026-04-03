@@ -1,0 +1,14 @@
+[
+  {
+    "precedent_id": "P-001",
+    "doctrine": "Bail Not Jail",
+    "usage_scope": "General Principle",
+    "restriction": "Cannot override statutory risk factors"
+  },
+  {
+    "precedent_id": "P-002",
+    "doctrine": "Parity Doctrine",
+    "usage_scope": "Co-accused comparison",
+    "restriction": "Facts must be materially similar"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "accused_id": "A-001",
+    "case_id": "C-IND-2024-001",
+    "age": 38,
+    "prior_convictions": 0,
+    "flight_risk_score": 0.62,
+    "tampering_risk_score": 0.48,
+    "social_roots": "Strong",
+    "employment_status": "Self-Employed"
+  },
+  {
+    "accused_id": "A-002",
+    "case_id": "C-IND-2024-002",
+    "age": 29,
+    "prior_convictions": 1,
+    "flight_risk_score": 0.81,
+    "tampering_risk_score": 0.76,
+    "social_roots": "Weak",
+    "employment_status": "Unemployed"
+  }
+]

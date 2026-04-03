@@ -1,0 +1,16 @@
+[
+  {
+    "evidence_id": "E-101",
+    "case_id": "C-IND-2024-001",
+    "type": "Documentary",
+    "description": "Bank transaction records indicating fund diversion",
+    "strength_score": 0.74
+  },
+  {
+    "evidence_id": "E-102",
+    "case_id": "C-IND-2024-002",
+    "type": "Oral",
+    "description": "Eyewitness testimony recorded under Section 161 CrPC",
+    "strength_score": 0.69
+  }
+]

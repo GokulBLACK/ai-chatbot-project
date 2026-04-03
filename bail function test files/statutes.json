@@ -1,0 +1,16 @@
+[
+  {
+    "statute_id": "S-437",
+    "law": "CrPC",
+    "principle": "Bail in non-bailable offences",
+    "default_position": "Judicial Discretion",
+    "exceptions": ["Risk of flight", "Tampering", "Repeat offence"]
+  },
+  {
+    "statute_id": "S-167(2)",
+    "law": "CrPC",
+    "principle": "Default Bail",
+    "time_limit_days": 90,
+    "applicability": "Charge sheet not filed"
+  }
+]

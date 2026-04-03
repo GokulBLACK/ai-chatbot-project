@@ -1,0 +1,16 @@
+[
+  {
+    "risk_type": "Flight Risk",
+    "mitigation_measures": [
+      "Surrender passport",
+      "Regular police reporting"
+    ]
+  },
+  {
+    "risk_type": "Witness Tampering",
+    "mitigation_measures": [
+      "No-contact order",
+      "Geographical restriction"
+    ]
+  }
+]

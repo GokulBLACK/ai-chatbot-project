@@ -1,0 +1,28 @@
+[
+  {
+    "order_id": "BO-001",
+    "case_id": "C-IND-2024-001",
+    "bail_status": "Granted",
+    "conditions": [
+      "Personal bond of INR 1,00,000",
+      "No contact with witnesses",
+      "Weekly police reporting"
+    ],
+    "reasoning_blocks": [
+      "Completion of investigation",
+      "Low prior criminal history",
+      "Mitigable flight risk"
+    ]
+  },
+  {
+    "order_id": "BO-002",
+    "case_id": "C-IND-2024-002",
+    "bail_status": "Denied",
+    "conditions": [],
+    "reasoning_blocks": [
+      "Severity of offence",
+      "High flight risk",
+      "Witness vulnerability"
+    ]
+  }
+]
